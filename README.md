@@ -1,5 +1,4 @@
-oi eu sou a Mariana
+Repositório criado para acompanhar meus estudos iniciais em Python, explorando tipos de variáveis e estruturas básicas da linguagem.
 
-E eu estou aprendendo Git
-
-Dia 13: adicionei estrutura de dados ao repositório
+📌 Conteúdo abordado:
+### Tipos de variáveis
